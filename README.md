@@ -1,2 +1,3 @@
-This is a simple python file called uer_input.py that takes promts a user to 
-input their name and print greet them on the terminal.
+The calculate_discount function calculates the discount on a price of an item.
+If the discount percent is above 20%, the final price after deducting the discounted amount is returned.
+Otherwise, the original price is returned.
