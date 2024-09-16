@@ -1,2 +1,2 @@
-This is a simple python file called uer_input.py that takes promts a user to 
-input their name and print greet them on the terminal.
+file_handling_assignment.py is Python script that handle file handling strategies in Python:
+File creation, file reading and writing, file appending, and lots more.
